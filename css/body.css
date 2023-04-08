@@ -1,0 +1,104 @@
+.sobre{
+    display: flex;
+}
+.sobre h2{
+    color: rgb(211, 0, 144);
+    font-size: 25px;
+    font-weight: normal;
+    font-family: "Bungee",sans-serif;
+}
+.sobre img{
+    width: 750px;
+    height: 600px;
+    margin-top: 15px;
+    margin-left: 25px;
+}
+.sobre h2, p{
+    margin-left: 50px;
+}
+.sobre p{
+    color: rgb(190, 7, 184);
+    font-size: 22;
+    font-family: "Roboto", sans-serif;
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+.sobre a{
+    color: rgb(231, 0, 100);
+    font-size: 21px;
+}
+.sobre a:hover{
+    color: rgb(231, 154, 0);
+}
+.sob img{
+    margin-left: 15px;
+    margin-top: 0px;
+}
+.sob #lep{
+    width: 90px;
+    height: 80px;
+}
+.sob #viv{
+    width: 140px;
+    height: 90px;
+    margin-left: 41px;
+}
+.contato{
+    display: flex;
+    font-family: "Bungee", cursive;
+    color: rgb(211, 0, 144);
+}
+.contato h1{
+    font-size: 30px;
+    margin-top: 30px;
+    margin-left: 30px;
+}
+.contato{
+    margin-left: 30px;
+    margin-top: 0px;
+    justify-content: space-between;
+    margin-right: 100px;
+}
+#cont{
+    font-size: 35px;
+    margin-left: 30px;
+    font-family: "Bungee", cursive;
+    color: rgb(211, 0, 144);
+}
+textarea{
+    resize: none;
+    height: 125px;
+    width: 263px;
+    outline-color: rgb(147, 0, 115);
+}
+input{
+    height: 25px;
+    width: 260px;
+    outline-color: rgb(147, 0, 115);
+}
+#zap img{
+    height: 60px;
+    width: 100px;
+}
+#insta img{
+    height: 60px;
+    width: 60px;
+}
+#ml img{
+    height: 60px;
+    width: 90px;
+}
+address{
+    font-family: "Roboto", sans-serif;
+}
+button{
+    cursor: pointer;
+    background-color: rgb(211, 0, 144);
+    color: white;
+    height: 50px;
+    width: 265px;
+    font-family: "Bungee", sans-serif;
+}
+button:hover{
+    background-color: rgb(144, 0, 154);
+}
